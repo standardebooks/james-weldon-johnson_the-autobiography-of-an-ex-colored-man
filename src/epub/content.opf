@@ -69,7 +69,7 @@
 		<dc:contributor id="producer-1">David M. Gross</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Gross, David M.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://sniggle.net/TPL/</meta>
-      <meta property="se:url.authority.nacoaf" refines="#producer-1">http://id.loc.gov/authorities/names/no2009011220</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-1">http://id.loc.gov/authorities/names/no2009011220</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
