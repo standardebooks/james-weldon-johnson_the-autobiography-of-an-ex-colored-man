@@ -37,13 +37,14 @@
 		<meta property="term" refines="#subject-2">sh2008110346</meta>
 		<meta property="se:subject">Autobiography</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">It is so much safer to pass as white in America if you can get away with it, but how much of yourself must you trade away in the bargain?</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The protagonist of this fictional autobiography wrestles with race in America from the perspective of someone who learns that he is considered black but also that he can pass as white if he wants to. His personal ambitiousness and racial ambivalence makes him a sort of American Hamlet: undone by indecision. Will he be “a credit to his race” by advancing an African-American heritage he loves and appreciates in the face of a hostile culture, or will he retreat into the mediocrity of a safe, white, middle-class family life?&lt;/p&gt;
+			&lt;p&gt;Along the way, he shares his penetrating observations about race relations in the American north and south, about the “freemasonry” of subterranean black American culture, about the emerging bohemian jazz subculture in New York City, and about traditions of African American religious music and oratory.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11012</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">I split some paragraphs of back-and-forth dialog into multiple paragraphs. I also reverted some changes I noted between the 1912 edition and the PG transcription.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Autobiography_of_an_Ex-Colored_Man</meta>
@@ -53,13 +54,13 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_Weldon_Johnson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79133137</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Georges Seurat</dc:contributor>
+		<meta property="file-as" refines="#artist">Seurat, Georges</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Georges_Seurat</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79129009</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="publisher">Sherman, French &amp; Company</dc:contributor>
-		<meta property="role" refines="#publisher" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="publisher-2">Sherman, French &amp; Company</dc:contributor>
+		<meta property="role" refines="#publisher-2" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
