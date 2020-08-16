@@ -44,6 +44,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11012</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Autobiography_of_an_Ex_colored_Man/cGI1AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">I split some paragraphs of back-and-forth dialog into multiple paragraphs. I also reverted some changes I noted between the 1912 edition and the PG transcription.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
