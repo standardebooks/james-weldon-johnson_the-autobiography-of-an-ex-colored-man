@@ -29,3 +29,12 @@
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+.signature{
+	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
