@@ -53,12 +53,12 @@
 		<dc:creator id="author">James Weldon Johnson</dc:creator>
 		<meta property="file-as" refines="#author">Johnson, James Weldon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_Weldon_Johnson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79133137</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79133137</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Georges Seurat</dc:contributor>
 		<meta property="file-as" refines="#artist">Seurat, Georges</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Georges_Seurat</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79129009</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79129009</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="publisher-2">Sherman, French &amp; Company</dc:contributor>
 		<meta property="role" refines="#publisher-2" scheme="marc:relators">wpr</meta>
