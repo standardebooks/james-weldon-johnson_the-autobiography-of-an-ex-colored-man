@@ -58,8 +58,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Georges_Seurat</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79129009</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="publisher-2">Sherman, French &amp; Company</dc:contributor>
-		<meta property="role" refines="#publisher-2" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="writer-of-preface">Sherman, French &amp; Company</dc:contributor>
+		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
