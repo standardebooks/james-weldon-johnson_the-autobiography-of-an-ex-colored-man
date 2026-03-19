@@ -6,10 +6,4 @@
 			<reason>Quotation marks are not being used to mark up dialog in this case.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-10.xhtml">
-		<ignore code="t-005">
-			<line>41</line>
-			<reason>Quotation marks are not being used to mark up dialog in this case.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
